@@ -25,7 +25,6 @@ print(out)
 
 
 ### OUTPUT:
-
 ![Alt text](Coordinates.png)
 
 
