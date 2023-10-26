@@ -21,12 +21,12 @@ y2=6
 d=(((x2-x1)**2)+((y2-y1)**2))**0.5
 out=round(d,2)
 print(out)
-  ```ss
+  ```
 
 
 ### OUTPUT:
-![Alt text](Coordinates.png)
 
+![Alt text](Coordinates.png)
 
 
 ### RESULT:
